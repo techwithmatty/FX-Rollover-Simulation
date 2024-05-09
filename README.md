@@ -1,2 +1,2 @@
-# Variable-FX-Swaps-Simulation
+# FX-Rollver-Simulation
 Estimating the cost of financing for a given set of G8 FX pairs
